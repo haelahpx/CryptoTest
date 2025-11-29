@@ -22,7 +22,7 @@ Anda harus memiliki perangkat lunak berikut yang terinstal di mesin lokal Anda:
     Gunakan perintah berikut di terminal. Perintah ini akan membangun citra (_image_) dan menjalankan kedua layanan (`backend` dan `frontend`) di latar belakang (`-d`).
 
     ```bash
-    docker-compose up --build -d
+    docker compose up --build -d
     ```
 
 3.  **Verifikasi Status Kontainer**
