@@ -43,7 +43,6 @@ Setelah kontainer berjalan, Anda dapat mengakses komponen proyek melalui _browse
 | :--- | :--- | :--- | :--- |
 | **Antarmuka Pengguna (Frontend)** | `http://localhost:8081` | 8081 | Halaman utama Pasar |
 | **Dokumentasi API (Swagger UI)** | `http://localhost:3000/api-docs` | 3000 | Dokumentasi API interaktif |
-| **API Backend** | `http://localhost:3000` | 3000 | Akses langsung ke server API |
 
 ---
 
